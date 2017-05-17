@@ -1,0 +1,17 @@
+/*
+ * Table styles
+ */
+
+
+ * {
+    color: #034f84;
+
+}
+table, th, td {
+
+    text-align: left;
+    padding: 0px;
+    background-color: white;
+    font-size: 120%;
+
+}
